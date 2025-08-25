@@ -3,7 +3,7 @@ import { Canvas, useFrame, useThree } from '@react-three/fiber';
 import { Box as BoxMesh } from '@react-three/drei';
 import { Vector3 } from 'three';
 
-
+// different state and things
 function Particles({ count, state, statePositions }) {
   const meshRef = useRef();
   
