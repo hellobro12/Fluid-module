@@ -65,7 +65,7 @@ function StatesOfMatter() {
   const [particlePositions, setParticlePositions] = useState([]);
   const count = 150;
 
-
+// box effect
   React.useEffect(() => {
     const positions = [];
     for (let i = 0; i < count; i++) {
