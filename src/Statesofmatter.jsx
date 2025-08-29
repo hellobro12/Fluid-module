@@ -18,7 +18,7 @@ function Particles({ count, state, statePositions }) {
         
         break; 
       case 'liquid':
-        
+        // array position
         for (let i = 0; i < count; i++) {
           const position = statePositions[i].clone();
           position.add(new Vector3(Math.sin(Date.now() * 0.001 + i) * 0.02, Math.cos(Date.now() * 0.001 + i) * 0.02, 0));
