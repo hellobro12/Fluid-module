@@ -77,7 +77,7 @@ function StatesOfMatter() {
     }
     setParticlePositions(positions);
   }, [count]);
-
+// states and animation
   return (
     <section style={{ height: '600px', border: '0px solid #ccc', margin: '20px 0' }}>
       <h2>States of Matter: Solid, Liquid, Gas</h2>
