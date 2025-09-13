@@ -60,7 +60,7 @@ function Particles({ count, state, statePositions }) {
     </points>
   );
 }
-// particle position and speed
+// particle position & speed
 function StatesOfMatter() {
   const [state, setState] = useState('solid');
   const [particlePositions, setParticlePositions] = useState([]);
