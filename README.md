@@ -47,7 +47,7 @@ An interactive **React-based web application** designed to help students **visua
 
 ## **⚡ Getting Started**
 
-Follow these steps to run the project locally:
+Follow these steps to run the project locally
 
 ### **1. Clone the Repository**
 
